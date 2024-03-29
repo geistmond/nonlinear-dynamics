@@ -1,3 +1,7 @@
+The exciting new results surrounding the Higgs field have led to physics conversations about interactions between solitons,
+or nonlinear standing waves that can maintain their characteristics after colliding. Higgs field interactions results in mass, 
+and QFT uses solitons. So people with mathematical and computational interests in physics are looking at soliton models.
+
 The Kadomtsev-Petviashvili Equation is an equation that models the behavior of nonlinear wave motion.
 This includes nonlinear static waves, as can emerge in as shallow water, but it has applications across other states of matter.
 
